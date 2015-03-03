@@ -7,4 +7,6 @@ To connect using a driver via the standard URI (what's this?):
   mongodb://<dbuser>:<dbpassword>@ds039211.mongolab.com:39211/slashy
 
   user : root
-  mdp  : LEMOTDEPASSE
+  mdp  : i_m7Y!eL&
+
+
