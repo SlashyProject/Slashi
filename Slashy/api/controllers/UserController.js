@@ -1,11 +1,16 @@
 /**
  * UserController
  *
+<<<<<<< HEAD
  * @description :: Server-side logic for managing Users
+=======
+ * @description :: Server-side logic for managing users
+>>>>>>> origin/master
  * @help        :: See http://links.sailsjs.org/docs/controllers
  */
 
 module.exports = {
+<<<<<<< HEAD
 
 	 findByPseudo: function (req, res) 
 	 {     
@@ -32,5 +37,8 @@ module.exports = {
 	  }
 
 
+=======
+	
+>>>>>>> origin/master
 };
 
